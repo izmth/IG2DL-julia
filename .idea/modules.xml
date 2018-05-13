@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IG2DL-julia.iml" filepath="$PROJECT_DIR$/.idea/IG2DL-julia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IG2DL with julia/.idea/IG2DL-with-julia.iml" filepath="$PROJECT_DIR$/../IG2DL with julia/.idea/IG2DL-with-julia.iml" />
+    </modules>
+  </component>
+</project>
